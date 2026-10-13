@@ -1,0 +1,8 @@
+Oct 13 08:00:01 factory sshd[101]: Failed password for invalid user admin from 192.0.2.10 port 50100 ssh2
+Oct 13 08:00:20 factory sshd[102]: Failed password for invalid user admin from 192.0.2.10 port 50101 ssh2
+Oct 13 08:01:00 factory sshd[103]: Failed password for invalid user admin from 192.0.2.10 port 50102 ssh2
+Oct 13 08:02:00 factory sshd[104]: Failed password for root from 192.0.2.10 port 50103 ssh2
+Oct 13 08:02:30 factory sshd[105]: Failed password for invalid user test from 192.0.2.10 port 50104 ssh2
+Oct 13 08:03:00 factory sshd[106]: Accepted publickey for takachi from 192.0.2.20 port 50200 ssh2
+Oct 13 08:03:30 factory sshd[107]: Failed password for invalid user guest from 192.0.2.30 port 50300 ssh2
+Oct 13 08:04:00 factory sshd[108]: Failed password for invalid user guest from 192.0.2.30 port 50301 ssh2
